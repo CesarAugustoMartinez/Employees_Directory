@@ -103,7 +103,7 @@ class Employees extends Component {
     render() {
       return (
         <div>
-          <Banner backgroundImage="https://zascogps.com/wp-content/uploads/2018/03/EMPLOYEE-MANAGEMENTB-BANNER.jpg">
+          <Banner backgroundImage="banner.jpg">
           <h1>Employee Directory</h1>
           <h2>Search your favorite employee!</h2>
           </Banner>
